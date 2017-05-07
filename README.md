@@ -9,13 +9,9 @@ The code on java implements the computation of the number P by means of the topo
 
 Example #1
 input.txt
-
 A=3
-
 R=T*4 
-
 T=A+B
-
 B=2
 
 output.txt
@@ -23,17 +19,11 @@ output.txt
 
 Example #2
 input.txt
-
 C=Q+W
-
 A=E+5
-
 R=C*W
-
 Q=3*5
-
 W=1+A
-
 E=4
 
 output.txt
