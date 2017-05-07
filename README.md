@@ -8,7 +8,7 @@ The code on java implements the computation of the number P by means of the topo
 
 
 Example #1
-input.txt
+input.txt<br>
 A=3
 R=T*4 
 T=A+B
